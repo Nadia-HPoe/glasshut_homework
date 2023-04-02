@@ -1,0 +1,327 @@
+#headerblock {
+    position: absolute;
+    width: 1408px;
+    height: 100px;
+    margin-left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    box-shadow: 2px 0px 20px rgba(0, 0, 0, 0.08);       
+    }
+    #logotype{
+        position: absolute;
+        width: 70.26px;
+        height: 65.1px;
+        margin-left: 146px;
+        margin-top: 18px;
+        margin-bottom: 16.9px;
+    }
+    #mainmenu {
+        position: absolute;
+        width: 541px;
+        height: 25px;
+        margin-left: 0px;
+        margin-top: 38px;
+        margin-bottom: 38px;
+        margin-right: 0px;
+            
+            }
+    #mainmenu .menu1  {
+        position: absolute;
+        width: 39px;
+        height: 24px;
+        margin-right: 911px;
+        margin-left: 300px;
+        font-family: 'Montserrat','Courier New', Courier, monospace;
+        font-style: normal;
+        font-size: 14pt;
+        font-weight: 300;
+        line-height: 24px;
+        text-transform: uppercase;
+        text-decoration: none;
+        color: black;
+        } 
+    #mainmenu  .menu2  {
+        position: absolute;
+        width: 157px;
+        height: 24px;
+        margin-right: 818px;
+        margin-left: 450px;
+        font-family: 'Montserrat','Courier New', Courier, monospace;
+        font-style: normal;
+        font-size: 14pt;
+        font-weight: 300;
+        line-height: 24px;
+        text-transform: uppercase;
+        text-decoration: none;
+        color: black;
+    } 
+    #mainmenu  .menu3  {
+        position: absolute;
+        width: 100px;
+        height: 24px;
+        margin-right: 722px;
+        margin-left: 600px;
+        font-family: 'Montserrat','Courier New', Courier, monospace;
+        font-style: normal;
+        font-size: 14pt;
+        font-weight: 300;
+        line-height: 24px;
+        text-transform: uppercase;
+        text-decoration: none;
+        color: black;
+    } 
+    #mainmenu  .menu4  {
+        position: absolute;
+        width: 60px;
+        height: 24px;
+        margin-right: 622px;
+        margin-left: 750px;
+        font-family: 'Montserrat','Courier New', Courier, monospace;
+        font-style: normal;
+        font-size: 14pt;
+        font-weight: 300;
+        line-height: 24px;
+        text-transform: uppercase;
+        text-decoration: none;
+        color: black;
+    } 
+    #mainmenu  .menu5  {
+        position: absolute;
+        width: 100px;
+        height: 24px;
+        margin-right: 520px;
+        margin-left: 900px;
+        font-family: 'Montserrat','Courier New', Courier, monospace;
+        font-style: normal;
+        font-size: 14pt;
+        font-weight: 300;
+        line-height: 24px;
+        text-transform: uppercase;
+        text-decoration: none;
+        color: black;
+    } 
+    #mainmenu  .menu6  {   
+        position: absolute;
+        width: 25px;
+        height: 24px;
+        margin-right: 300px;
+        margin-left: 1050px;
+        font-family: 'Montserrat','Courier New', Courier, monospace;
+        font-style: normal;
+        font-size: 14pt;
+        font-weight: 300;
+        line-height: 24px;
+        text-decoration: none;
+        text-transform: uppercase;
+        color: black;
+    } 
+    #menubutton{
+        position: absolute;
+        width: 200px;
+        height: 60px;
+        margin-top: 20px;
+        margin-right: 32px;
+        margin-bottom: 20px;
+        margin-left: 1176px;
+        font-family: 'DIN';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 28px;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        background: #5B6460;
+        
+    }
+    #mainmenu  .menu1:hover{ 
+        text-shadow: rgb(228, 137, 240) 1px 0 10px;
+    }
+    #mainmenu  .menu2:hover{ 
+        text-shadow: rgb(228, 137, 240) 1px 0 10px;
+    }
+    #mainmenu  .menu3:hover{ 
+        text-shadow: rgb(228, 137, 240) 1px 0 10px;
+    }
+    #mainmenu  .menu4:hover{ 
+        text-shadow: rgb(228, 137, 240) 1px 0 10px;
+    }
+    #mainmenu  .menu5:hover{ 
+        text-shadow: rgb(228, 137, 240) 1px 0 10px;
+    }
+    #mainmenu  .menu6:hover{ 
+        text-shadow: rgb(228, 137, 240) 1px 0 10px;
+        
+    }
+    #menubutton:hover{
+        color: rgb(241, 141, 228);
+    }
+
+    #pricebutton:hover{
+        font-style: italic;
+    }
+    main{
+        width: 1409px;
+        height: 701px;
+        margin-top: 100px;
+    }
+    main #background{
+    /*position: absolute;*/
+        width: 1408px;
+        height: 700px;
+        left: 0px;
+        top: 100px;
+        background: #333333;
+    }
+    h1{
+    
+        position: absolute;
+        width: 760px;
+        height: 85px;
+        margin-left: 596px;
+        margin-right: 58px;
+        top: calc(50% - 72px/2 - 59px);
+        font-family: 'Montserrat','Open Sans', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 63px;
+        line-height: 72px;
+        text-align: right;
+        color: #FFFFFF;
+    }
+    
+    h3{
+        position: absolute;
+        height: 84px;
+        left: 43.88%;
+        right: 11.31%;
+        top: calc(50% - 84px/2 + 53px);
+        font-family: 'Montserrat','Open Sans', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 28px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+        #mainbutton{
+            position: absolute;
+            width: 263px;
+            height: 100px;
+            margin-top: 637px;
+            margin-right: 32px;
+            margin-bottom: 37px;
+            margin-left: 146px;
+            font-family: 'Montserrat','Open Sans', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-style: normal;
+            font-weight: 300;
+            font-size: 14px;
+            line-height: 28px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            color: #FFFFFF;
+            background: #5B6460;
+            
+        }
+        #pricebutton{
+            position: absolute;
+            width: 120px;
+            height: 100px;
+            margin-top: 637px;
+            margin-right: 32px;
+            margin-bottom: 37px;
+            margin-left: 409px;
+            font-family: 'Montserrat','Open Sans', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-style:normal;
+            font-weight: 300;
+            font-size: 14px;
+            line-height: 28px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            color: #333333;
+            background: #E9ECE0;
+        }
+section{
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+    flex-direction: row; 
+    padding: 50px;
+    width: 1409px;
+    height: 747px;
+    left: 0px;
+    top: 2px;
+}
+        #cabins{
+            display: flex;
+            margin-top: 87px;
+            width: 206px;
+            height: 40px;
+            left: 147px;
+            top: 89px;
+            font-family: 'Open Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 40px;
+            line-height: 40px;
+            
+        }
+        .article1{
+            display: flex;
+            margin: auto;
+            width: 465px;
+            height: 244px;
+            left: 147px;
+            top: 179px;
+
+            font-family: 'Montserrat','Open Sans', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-style: normal;
+            font-weight: 300;
+            font-size: 16px;
+            line-height: 30px;
+
+        }
+        #cabin_section{
+            display: flex;
+            margin: auto;
+            width: 693px;
+            height: 438px;
+            left: 717px;
+            top: 2px;
+        }
+        .cab_images{
+            display: flex;
+            flex-direction: row;   
+            
+        }
+        #cabin_sec1{
+            display: flex;
+            
+            padding: 24px;
+        }
+        #cabin_sec2{
+            display: flex;
+            
+            padding: 24px;
+        }
+        #cabin_sec3{
+            display: flex;
+            
+        padding: 24px;
+        }
+
+        .footer{
+            display: flex;
+            justify-content: flex-end;
+            align-content: flex-start;
+            flex-direction: column;
+            position: absolute;
+            width: 385px;
+            height: 60px;
+            left: 146px;
+            top: 950px;
+            font-family: 'Montserrat','Open Sans', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+            font-size: larger;
+            color: #5B6460;  
+        }
+    
